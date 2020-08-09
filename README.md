@@ -10,3 +10,5 @@ What I learned:
 - conversion from binary to decimal and hex and vice versa
 - passing parameters using references, pointers, or by value
 - relationships between arrays and pointers
+
+Please feel free to email me if you have any questions about these labs.  Thank you!
