@@ -11,4 +11,4 @@ What I learned:
 - passing parameters using references, pointers, or by value
 - relationships between arrays and pointers
 
-Please feel free to email me if you have any questions about these labs.  Thank you!
+Please feel free to email me if you have any questions about these labs. Thank you!
